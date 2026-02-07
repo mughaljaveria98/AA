@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pinspiration</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="font-family: Arial, sans-serif; text-align: center; padding: 40px;">
+
+  <h1>Welcome to Pinspiration 🎉</h1>
+
+  <p>
+    This is a simple website hosted on <b>GitHub Pages</b><br>
+    and connected to my custom domain.
+  </p>
+
+  <p>
+    Domain: <b>pinspiration.online</b>
+  </p>
+
+  <hr style="margin: 30px 0;">
+
+  <p>
+    If you can see this page, everything is working correctly ✅
+  </p>
+
+</body>
+</html>
